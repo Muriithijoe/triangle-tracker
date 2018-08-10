@@ -9,6 +9,13 @@ prompt box.
 * open your browser
 * once you receive a link copy paste it to the browser
 * it will open once you run it
+###project individual behaviors
+~Once you run the site a prompt box appears.
+~The measurements that you  enter in the prompt box determine the alert you get.
+~if sides are equal it will say triangle is equilateral
+~if 2 sides are equal it will say triangle is isosceles
+~if none of the sides are equal it will say triangle is scalene
+~if sum of two sides is less or equal to third side it will say not a triangle
 ## Technologies Used
 I used **HTML** , **CSS** and **Javascript** languages in the making of this webpage
 ### License
