@@ -1,3 +1,4 @@
+function addition(){
 var a =parseInt(prompt("Enter the side A"));
 var b =parseInt(prompt("Enter the side B"));
 var c =parseInt(prompt("Enter the side C"));
@@ -17,4 +18,4 @@ alert("This is not a triangle");
 }
 else{
 alert("TRY AGAIN.WRONG INPUT");
-}
+}}
