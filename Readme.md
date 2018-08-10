@@ -9,7 +9,8 @@ prompt box.
 * open your browser
 * once you receive a link copy paste it to the browser
 * it will open once you run it
-###project individual behaviors
+
+## project individual behaviors
 ~Once you run the site a prompt box appears.
 ~The measurements that you  enter in the prompt box determine the alert you get.
 ~if sides are equal it will say triangle is equilateral
